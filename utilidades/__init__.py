@@ -1,0 +1,1 @@
+"""Paquete que agrupa herramientas de apoyo compartidas por la aplicación."""

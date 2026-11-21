@@ -1,0 +1,1 @@
+"""Paquete que agrupa las excepciones propias del sistema."""

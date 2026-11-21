@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.py[cod]
+*.log
+logs/*.log
+.vscode/*
+!.vscode/settings.json
+venv/
+.venv/
